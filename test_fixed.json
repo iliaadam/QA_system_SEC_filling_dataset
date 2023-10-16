@@ -1,0 +1,152 @@
+[
+    {
+        "context": "Block Drug Company, Inc. develops, manufactures and markets three categories of products: dental products, including consumer oral hygiene and professional dental products; consumer products, including proprietary over-the-counter products and household products; and ethical pharmaceuticals.",
+        "qas": [
+            {
+                "id": "00001",
+                "is_impossible": false,
+                "question": "What are the three categories of products developed by Block Drug Company, Inc.?",
+                "answers": [
+                    {
+                        "text": "dental products, including consumer oral hygiene and professional dental products; consumer products, including proprietary over-the-counter products and household products; and ethical pharmaceuticals.",
+                        "answer_start": 90
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "context": "The principal products of the company are knitwear items of various kinds for work and casual wear such as sweatshirts, jogging suits, hooded jackets, headwear, and T-shirts. The company manufactures apparel products under Tultex (Registered Trademark), Tultex Maximum Sweats (Registered Trademark), Tultex Super Weights (Registered Trademark), Discus Athletic (Registered Trademark), Universal (Registered Trademark), Logo 7 (Registered Trademark), Logo Athletic (Registered Trademark), and Competitor (Registered Trademark) brand labels and private labels.",
+        "qas": [
+            {
+                "id": "00002",
+                "is_impossible": false,
+                "question": "What are the principal products of Tultex Corporation?",
+                "answers": [
+                    {
+                        "text": "knitwear items of various kinds for work and casual wear such as sweatshirts, jogging suits, hooded jackets, headwear, and T-shirts",
+                        "answer_start": 42
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "context": "The PSC requires the Company to show cause why it should not refund to its customers $2,300,000, plus interest, as a result of this overcollection.  Comments by the parties are due June 6, 1994, with reply comments to be filed on June 13, 1994.",
+        "qas": [
+            {
+                "id": "00003",
+                "is_impossible": false,
+                "question": "What the PSC requires the Company to show?",
+                "answers": [
+                    {
+                        "text": "why it should not refund to its customers $2,300,000",
+                        "answer_start": 43
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "context": "Included in the Company's personal care products line are three well-known consumer brand names:  NYTOL Sleep-Aid Tablets, TEGRIN Medicated Shampoos and BC Headache Powder.",
+        "qas": [
+            {
+                "id": "00004",
+                "is_impossible": false,
+                "question": "What are the three well-known consumer brand names included in the Company's personal care products line?",
+                "answers": [
+                    {
+                        "text": "NYTOL Sleep-Aid Tablets, TEGRIN Medicated Shampoos and BC Headache Powder.",
+                        "answer_start": 98
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "context": "The Company markets the VITAL DEFENSE line of office infection control products. This line includes continuing education program materials on office infection control requirements and applicable regulations established by government agencies.",
+        "qas": [
+            {
+                "id": "00005",
+                "is_impossible": false,
+                "question": "What is the focus of the VITAL DEFENSE line of products?",
+                "answers": [
+                    {
+                        "text": "office infection control",
+                        "answer_start": 46
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "context": "The Company continues to expand its worldwide clinical research program with studies throughout Europe, United States, Canada and Japan. This global effort is complemented by R&D project priorities assigned on a worldwide basis to reduce the number of formulas which must be developed and maintained. The Company continues its commitment to the maintenance and expansion of its technology infrastructure with special focus on the quality of its personnel, facilities and equipment.",
+        "qas": [
+            {
+                "id": "00006",
+                "is_impossible": true,
+                "question": "What is the most popular flavor of SENSODYNE toothpaste?",
+                "answers": []
+            }
+        ]
+    },
+    {
+        "context": "The Company's largest foreign market is in Europe, where there are sales and marketing organizations in Germany, United Kingdom, France, Italy, Spain, Sweden, Belgium, the Netherlands and Portugal. Factories in the United Kingdom, Wales, Ireland and Belgium supply these markets.",
+        "qas": [
+            {
+                "id": "00007",
+                "is_impossible": true,
+                "question": "Which countries are included in the Pacific Rim/Canada division?",
+                "answers": []
+            }
+        ]
+    },
+    {
+        "context": "The application filed with the PSCW requests an overall increase of $3.6 million, or 2.7 percent for natural gas and a nominal water rate increase.  If approved the new rates become effective January 1, 1995 and would remain in effect for two years.",
+        "qas": [
+            {
+                "id": "00008",
+                "is_impossible": false,
+                "question": "What is the requested overall increase in the application filed with the PSCW for natural gas and water rates?",
+                "answers": [
+                    {
+                        "text": "$3.6 million",
+                        "answer_start": 68
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "context": "On March 18, 1994, the Commission issued an order in this file (HCAR No. 35-26007) approving certain of the proposed increases in borrowing authority but reserving jurisdiction over $20 million of CSW's proposed increase and $60 million of CSWS' proposed increase, pending completion of the record.",
+        "qas": [
+            {
+                "id": "00009",
+                "is_impossible": false,
+                "question": "On what date did the Commission issue an order in file HCAR No. 35-26007, which approved certain proposed increases in borrowing authority but reserved jurisdiction over specific amounts?",
+                "answers": [
+                    {
+                        "text": "March 18, 1994",
+                        "answer_start": 3
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "context": "CSWS's current borrowing limit as authorized by the Commission in this file (HCAR No. 35-25777; March 31, 1993) is $90 million.  During the last 30 days CSWS's highest borrowing amount was approximately $89.1 million reached on June 3, 1994.",
+        "qas": [
+            {
+                "id": "000010",
+                "is_impossible": false,
+                "question": "What was CSWS's borrowing limit as authorized by the Commission in file HCAR No. 35-25777 on March 31, 1993?",
+                "answers": [
+                    {
+                        "text": "$90 million",
+                        "answer_start": 115
+                    }
+                ]
+            }
+        ]
+    }
+]

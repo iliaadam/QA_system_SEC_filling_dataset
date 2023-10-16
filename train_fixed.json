@@ -1,0 +1,976 @@
+[
+    {
+        "context": "Tultex Corporation is a Virginia corporation engaged principally in the business of manufacturing and selling textile products.",
+        "qas": [
+            {
+                "id": "00001",
+                "is_impossible": false,
+                "question": "What is the primary business of Tultex Corporation?",
+                "answers": [
+                    {
+                        "text": "manufacturing and selling textile products",
+                        "answer_start": 84
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "context": "The principal products of the company are knitwear items of various kinds for work and casual wear such as sweatshirts, jogging suits, hooded jackets, headwear, and T-shirts. The company manufactures apparel products under Tultex (Registered Trademark), Tultex Maximum Sweats (Registered Trademark), Tultex Super Weights (Registered Trademark), Discus Athletic (Registered Trademark), Universal (Registered Trademark), Logo 7 (Registered Trademark), Logo Athletic (Registered Trademark), and Competitor (Registered Trademark) brand labels and private labels.",
+        "qas": [
+            {
+                "id": "00002",
+                "is_impossible": false,
+                "question": "What are the principal products of Tultex Corporation?",
+                "answers": [
+                    {
+                        "text": "knitwear items of various kinds for work and casual wear such as sweatshirts, jogging suits, hooded jackets, headwear, and T-shirts",
+                        "answer_start": 42
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "context": "The company's traditional business is to market fleece and jersey knit activewear with an emphasis on sales of basic style garments in high-volume markets. The company's marketing methods are typical of producers of basic clothing products. Its merchandising department keeps abreast of current fashionable styles and colors.",
+        "qas": [
+            {
+                "id": "00003",
+                "is_impossible": false,
+                "question": "What is the traditional business of the company?",
+                "answers": [
+                    {
+                        "text": "to market fleece and jersey knit activewear with an emphasis on sales of basic style garments in high-volume markets",
+                        "answer_start": 38
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "context": "The 1992 acquisitions of Logo 7 and Universal Industries, now a part of Logo 7, have made the company a major competitor in the licensed sports apparel business, one of the fastest growing portions of the apparel industry. Logo 7 decorates garments using silkscreening or embroidery and markets decorated headwear.",
+        "qas": [
+            {
+                "id": "00004",
+                "is_impossible": false,
+                "question": "What acquisitions made the company a major competitor in the licensed sports apparel business?",
+                "answers": [
+                    {
+                        "text": "1992 acquisitions of Logo 7 and Universal Industries",
+                        "answer_start": 4
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "context": "The company's yarn operations produce cotton and cotton-synthetic blended yarns of various counts. The yarn produced is principally consumed internally by the company's apparel operation.",
+        "qas": [
+            {
+                "id": "00005",
+                "is_impossible": false,
+                "question": "What do the company's yarn operations produce?",
+                "answers": [
+                    {
+                        "text": "cotton and cotton-synthetic blended yarns of various counts",
+                        "answer_start": 38
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "context": "Approximately 7,000 persons are employed by the company. No Tultex employees are represented by a labor union.",
+        "qas": [
+            {
+                "id": "00006",
+                "is_impossible": false,
+                "question": "How many persons are employed by the company?",
+                "answers": [
+                    {
+                        "text": "Approximately 7,000",
+                        "answer_start": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "context": "The company, along with other apparel manufacturers in the area, returns dyeing wastes for treatment to the City of Martinsville's municipal effluent systems. These treated dyeing wastes do not pose environmental risks.",
+        "qas": [
+            {
+                "id": "00007",
+                "is_impossible": false,
+                "question": "What does the company do with dyeing wastes?",
+                "answers": [
+                    {
+                        "text": "returns dyeing wastes for treatment to the City of Martinsville's municipal effluent systems",
+                        "answer_start": 65
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "context": "The company's facilities for manufacturing have adequate capacity to support the annual sales growth objective for 1994. The current nondecorated order backlog was estimated at approximately $57,000,000 at the end of 1993.",
+        "qas": [
+            {
+                "id": "00008",
+                "is_impossible": false,
+                "question": "What is the estimated order backlog at the end of 1993?",
+                "answers": [
+                    {
+                        "text": "approximately $57,000,000",
+                        "answer_start": 177
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "context": "Mr. J. M. Franck became Chairman of the Board of Directors and Chief Executive Officer in January 1991. He had served as President and Chief Operating Officer of the company since December 1988 and as Vice President since January 1983.",
+        "qas": [
+            {
+                "id": "00009",
+                "is_impossible": false,
+                "question": "When did Mr. J. M. Franck become Chairman of the Board of Directors and Chief Executive Officer?",
+                "answers": [
+                    {
+                        "text": "January 1991",
+                        "answer_start": 90
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "context": "Mr. Davies became President and Chief Operating Officer in January 1991 after serving as Executive Vice President since December 1989. From February 1988 through November 1989, he was President and Chief Executive Officer of Signal Apparel Company in Chattanooga, Tennessee.",
+        "qas": [
+            {
+                "id": "00010",
+                "is_impossible": false,
+                "question": "What was Mr. Davies' position before he became President and Chief Operating Officer?",
+                "answers": [
+                    {
+                        "text": "Executive Vice President",
+                        "answer_start": 89
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "context": "The company's products are manufactured in 12 plants in Virginia and North Carolina, one plant in Indiana, one plant in Massachusetts, and one plant in Jamaica, operated by the company's wholly-owned subsidiary, AKOM, Ltd., a Cayman Islands, B.W.I corporation. The company also operates a maquiladora sewing operation in Mexico. These products are marketed by the company through its national sales organization and designated sales representatives.",
+        "qas": [
+            {
+                "id": "00011",
+                "is_impossible": true,
+                "question": "What is the name of the company's subsidiary in the Cayman Islands?",
+                "answers": []
+            }
+        ]
+    },
+    {
+        "context": "Tultex Canada, Inc. is a subsidiary that commenced operation in 1990 as part of the company's initial expansion into international markets. In 1992, an agreement was also signed with Nissan Trading Co., Ltd., a subsidiary of Nissan Motor Co., to market and sell Tultex products in Japan. While international sales were immaterial in 1993, both of these ventures experienced strong double-digit sales growth over the prior year.",
+        "qas": [
+            {
+                "id": "00012",
+                "is_impossible": true,
+                "question": "What was the total revenue of Tultex Canada, Inc. in 1993?",
+                "answers": []
+            }
+        ]
+    },
+    {
+        "context": "The principal products of the company are knitwear items of various kinds for work and casual wear such as sweatshirts, jogging suits, hooded jackets, headwear, and T-shirts. The company manufactures apparel products under Tultex (Registered Trademark), Tultex Maximum Sweats (Registered Trademark), Tultex Super Weights (Registered Trademark), Discus Athletic (Registered Trademark), Universal (Registered Trademark), Logo 7 (Registered Trademark), Logo Athletic (Registered Trademark), and Competitor (Registered Trademark) brand labels and private labels.",
+        "qas": [
+            {
+                "id": "00013",
+                "is_impossible": false,
+                "question": "What are the principal products of Tultex Corporation?",
+                "answers": [
+                    {
+                        "text": "knitwear items of various kinds for work and casual wear such as sweatshirts, jogging suits, hooded jackets, headwear, and T-shirts",
+                        "answer_start": 42
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "context": "Weighted Average Number of Common",
+        "qas": [
+            {
+                "id": "00014",
+                "is_impossible": true,
+                "question": "What financial data is associated with the 'Weighted Average Number of Common'?",
+                "answers": []
+            }
+        ]
+    },
+    {
+        "context": "Accounts Receivable (Net of allowances for doubtful accounts and returns of",
+        "qas": [
+            {
+                "id": "00015",
+                "is_impossible": true,
+                "question": "What is the value of 'Accounts Receivable'?",
+                "answers": []
+            }
+        ]
+    },
+    {
+        "context": "Five Percent Cumulative Preferred Stock",
+        "qas": [
+            {
+                "id": "00016",
+                "is_impossible": true,
+                "question": "What is the purpose of 'Five Percent Cumulative Preferred Stock'?",
+                "answers": []
+            }
+        ]
+    },
+    {
+        "context": "Notes to Consolidated Financial Statements (Unaudited) April 2, 1994",
+        "qas": [
+            {
+                "id": "00017",
+                "is_impossible": true,
+                "question": "What is the content of the 'Notes to Consolidated Financial Statements (Unaudited) April 2, 1994'?",
+                "answers": []
+            }
+        ]
+    },
+    {
+        "context": "The company changed its method for determining cost of inventories from the last-in, first-out (LIFO) method to the first-in, first-out (FIFO) method during the fourth quarter of 1993. This change has been applied by retroactively restating all prior periods presented.",
+        "qas": [
+            {
+                "id": "00018",
+                "is_impossible": false,
+                "question": "What change did the company make to its inventory valuation method during the fourth quarter of 1993?",
+                "answers": [
+                    {
+                        "text": "The company changed its method for determining cost of inventories from the last-in, first-out (LIFO) method to the first-in, first-out (FIFO)",
+                        "answer_start": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "context": "Cost of products sold as a percentage of sales increased from 70% for the first quarter of 1993 to 72% for the comparable period of 1994. This increase is primarily due to a higher proportion of jersey sales, which traditionally yield lower margins than fleece. Also, a significant portion of 1994 business was booked at lower prices to meet increased competition due to industry wide excess capacity and high inventories at the end of 1993. Further margin pressure will likely result in the second half of 1994 from higher material costs due to poor cotton crop yields and polyester price increases.",
+        "qas": [
+            {
+                "id": "00019",
+                "is_impossible": false,
+                "question": "What was the percentage increase in the cost of products sold as a percentage of sales from the first quarter of 1993 to the first quarter of 1994?",
+                "answers": [
+                    {
+                        "text": "Cost of products sold as a percentage of sales increased from 70% for the first quarter of 1993 to 72% for the comparable period of 1994.",
+                        "answer_start": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "context": "Depreciation as a percentage of net sales increased to 7% for the first three months of 1994 from 6% for the same period of 1993 due to the combination of lower sales and additional capital expenditures for yarn and jersey manufacturing equipment. Depreciation expense increased $665 thousand or 12% for the quarter ended April 2, 1994, compared to the same period of the previous year.",
+        "qas": [
+            {
+                "id": "00020",
+                "is_impossible": false,
+                "question": "By how much did the depreciation expense increase for the quarter ended April 2, 1994, compared to the same period of the previous year?",
+                "answers": [
+                    {
+                        "text": "Depreciation expense increased $665 thousand or 12% for the quarter ended April 2, 1994, compared to the same period of the previous year.",
+                        "answer_start": 248
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "context": "What was the average annual rate for borrowings under the new revolving credit facility during the first quarter?",
+        "qas": [
+            {
+                "id": "00021",
+                "is_impossible": true,
+                "question": "What is the average annual rate for borrowings under the new revolving credit facility during the first quarter?",
+                "answers": []
+            }
+        ]
+    },
+    {
+        "context": "The company expects higher sales volume of undecorated jersey products continuing during 1994. When combined with fall fleece programs this broader product offering gives the company a year round presence with many of our retail customers.",
+        "qas": [
+            {
+                "id": "00022",
+                "is_impossible": false,
+                "question": "What does the company expect for the sales volume of undecorated jersey products in 1994?",
+                "answers": [
+                    {
+                        "text": "The company expects higher sales volume of undecorated jersey products continuing during 1994.",
+                        "answer_start": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "context": "The effective rate for combined federal and state income tax was 38% for the first three months of 1994 and 37% for 1993.",
+        "qas": [
+            {
+                "id": "00023",
+                "is_impossible": false,
+                "question": "What was the effective rate for combined federal and state income tax in the first three months of 1994?",
+                "answers": [
+                    {
+                        "text": "The effective rate for combined federal and state income tax was 38% for the first three months of 1994",
+                        "answer_start": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "context": "The increase this year is due to a change in the federal rate based on our expected pretax earnings for the 1994 fiscal year.",
+        "qas": [
+            {
+                "id": "00024",
+                "is_impossible": false,
+                "question": "Why did the effective rate for combined federal and state income tax increase in 1994?",
+                "answers": [
+                    {
+                        "text": "The increase this year is due to a change in the federal rate based on our expected pretax earnings",
+                        "answer_start": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "context": "The Company\n\nUAL Corporation (\"UAL\").",
+        "qas": [
+            {
+                "id": "00025",
+                "is_impossible": false,
+                "question": "What is the full name of the company?",
+                "answers": [
+                    {
+                        "text": "UAL Corporation",
+                        "answer_start": 13
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "context": "Proposed Employee Investment Transaction\n\nof recapitalization, dated March 25, 1994, that would provide a majority equity interest in UAL to the employees of United in exchange for wage concessions and work-rule changes. The transaction is subject to approval by UAL shareholders and certain closing conditions.",
+        "qas": [
+            {
+                "id": "00026",
+                "is_impossible": false,
+                "question": "What is the Proposed Employee Investment Transaction?",
+                "answers": [
+                    {
+                        "text": "recapitalization",
+                        "answer_start": 45
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "context": "Reclassification\n\ntransportation price adjustments, which were previously recorded as commissions, as adjustments to revenue. Certain amounts in the Statement of Consolidated Operations for the first quarter of 1993 have been reclassified to conform with the current presentation.",
+        "qas": [
+            {
+                "id": "00027",
+                "is_impossible": false,
+                "question": "What was reclassified from transportation price adjustments to revenue?",
+                "answers": [
+                    {
+                        "text": "commissions",
+                        "answer_start": 86
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "context": "Other Income (Expense) - Miscellaneous\n\na charge of $19 million for costs incurred in connection with the proposed employee investment transaction. In addition, the 1994 and 1993 periods included foreign exchange losses of $1 million and $22 million, respectively.",
+        "qas": [
+            {
+                "id": "00028",
+                "is_impossible": false,
+                "question": "What was the charge of $19 million for?",
+                "answers": [
+                    {
+                        "text": "costs incurred in connection with the proposed employee investment transaction",
+                        "answer_start": 68
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "context": "Income Taxes\n\nannual effective tax rates which differ from the federal statutory rate of 35% principally due to state income taxes and certain nondeductible expenses. The estimated annual effective tax rate for the first quarter of 1994 is based on the actual effective tax rate for the quarter. Deferred tax assets are recognized based upon United's history of operating earnings, available carrybacks, expectations for the future and potential tax planning strategies.",
+        "qas": [
+            {
+                "id": "00029",
+                "is_impossible": false,
+                "question": "Why do annual effective tax rates differ from the federal statutory rate of 35%?",
+                "answers": [
+                    {
+                        "text": "principally due to state income taxes and certain nondeductible expenses",
+                        "answer_start": 93
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "context": "Accounting Changes\n\nNo. 112, \"Employers' Accounting for Postemployment Benefits,\" effective January 1, 1994. SFAS No. 112 requires recognition of the liability for postemployment benefits during the period of employment. Such benefits include company paid continuation of group life insurance and medical and dental coverage for certain employees after employment but before retirement. The effect of adopting SFAS No. 112 was a cumulative charge for recognition of the transition liability of $42 million, before tax benefits of $16 million. The ongoing expenses related to postemployment benefits will vary based on actual claims experience.",
+        "qas": [
+            {
+                "id": "00030",
+                "is_impossible": false,
+                "question": "What was the cumulative charge for recognition of the transition liability due to SFAS No. 112?",
+                "answers": [
+                    {
+                        "text": "$42 million, before tax benefits of $16 million",
+                        "answer_start": 494
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "context": "Investments in Debt and Equity Securities,\" effective January 1, 1994. United's investments in such securities are included in \"Cash and cash equivalents\" and \"Short-term investments.\" The following information pertains to United's investments in such securities at March 31, 1994 (in millions):\nAvailable-for-sale:\nU.S. government agency debt\nCorporate debt\nOther debt\nHeld-to-maturity:\nU.S. government agency debt\nCorporate debt\nOther debt",
+        "qas": [
+            {
+                "id": "00031",
+                "is_impossible": false,
+                "question": "What types of securities are included in United's investments?",
+                "answers": [
+                    {
+                        "text": "1994 (in millions):\nAvailable-for-sale:\nU.S. government agency debt\nCorporate debt\nOther debt\nHeld-to-maturity:\nU.S. government agency debt\nCorporate debt\nOther debt",
+                        "answer_start": 276
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "context": "Long-term Debt\n\nsenior subordinated notes. The notes were scheduled to mature in 1995 and 1998 for $150 million and $350 million, respectively. An extraordinary loss of $19 million, net of tax benefits of $9 million, was recorded in the first quarter of 1993, based on United's stated intention to retire the notes.",
+        "qas": [
+            {
+                "id": "00032",
+                "is_impossible": false,
+                "question": "What was the scheduled maturity year for the senior subordinated notes?",
+                "answers": [
+                    {
+                        "text": "in 1995 and 1998",
+                        "answer_start": 78
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "context": "Contingencies and Commitments\n\nclaims (including environmental issues) incident to the ordinary course of business. Management believes, after considering a number of factors, including (but not limited to) the views of legal counsel, the nature of contingencies to which United is subject and its prior experience, that the ultimate disposition of these contingencies is not expected to materially affect United's consolidated financial position or results of operations.",
+        "qas": [
+            {
+                "id": "00033",
+                "is_impossible": false,
+                "question": "What is the company's management's belief regarding the impact of contingencies on its financial position?",
+                "answers": [
+                    {
+                        "text": "the ultimate disposition of these contingencies is not expected to materially affect United's consolidated financial position or results of operations",
+                        "answer_start": 321
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "context": "We have reviewed the accompanying consolidated condensed balance sheet of U.S. Home Corporation (a Delaware corporation) and subsidiaries as of March 31, 1994, and the related consolidated condensed statements of operations and cash flows for the three month periods ended March 31, 1994 and 1993. These financial statements are the responsibility of the Company's management.",
+        "qas": [
+            {
+                "id": "00034",
+                "is_impossible": false,
+                "question": "Who is responsible for the financial statements mentioned?",
+                "answers": [
+                    {
+                        "text": "Company's management",
+                        "answer_start": 355
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "context": "We conducted our review in accordance with standards established by the American Institute of Certified Public Accountants. A review of interim financial information consists principally of applying analytical procedures to financial data and making inquiries of persons responsible for financial and accounting matters. It is substantially less in scope than an audit conducted in accordance with generally accepted auditing standards, the objective of which is the expression of an opinion regarding the financial statements taken as a whole. Accordingly, we do not express such an opinion.",
+        "qas": [
+            {
+                "id": "00035",
+                "is_impossible": false,
+                "question": "How does a review of interim financial information differ from an audit?",
+                "answers": [
+                    {
+                        "text": "It is substantially less in scope than an audit conducted in accordance with generally accepted auditing standards, the objective of which is the expression of an opinion regarding the financial statements taken as a whole.",
+                        "answer_start": 321
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "context": "Based on our review, we are not aware of any material modifications that should be made to the financial statements referred to above for them to be in conformity with generally accepted accounting principles.",
+        "qas": [
+            {
+                "id": "00036",
+                "is_impossible": false,
+                "question": "Are there any material modifications required for the financial statements to conform to accounting principles?",
+                "answers": [
+                    {
+                        "text": "we are not aware of any material modifications",
+                        "answer_start": 21
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "context": "We have previously audited, in accordance with generally accepted auditing standards, the consolidated balance sheet of U.S. Home Corporation and subsidiaries as of December 31, 1993, and the related consolidated statements of operations, stockholders' equity and cash flows for the year then ended (not presented herein), and have issued our report thereon dated February 9, 1994.",
+        "qas": [
+            {
+                "id": "00037",
+                "is_impossible": false,
+                "question": "What financial statements were audited previously, and what was the date of the report?",
+                "answers": [
+                    {
+                        "text": "consolidated balance sheet of U.S. Home Corporation and subsidiaries as of December 31, 1993, and the related consolidated statements of operations, stockholders' equity and cash flows for the year then ended (not presented herein), and have issued our report thereon dated February 9, 1994.",
+                        "answer_start": 90
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "context": "Earnings (loss) applicable to common stock   $ 226.7   $ (413.6)",
+        "qas": [
+            {
+                "id": "00038",
+                "is_impossible": false,
+                "question": "What were the earnings (loss) applicable to common stock for the given periods?",
+                "answers": [
+                    {
+                        "text": "$ 226.7   $ (413.6)",
+                        "answer_start": 45
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "context": "The accompanying consolidated financial statements include the accounts of Sprint Corporation and its wholly-owned and majority-owned subsidiaries (Sprint), including Centel Corporation (Centel) and Sprint Communications Company L.P.  Investments in less than 50 percent-owned cellular communications partnerships are accounted for using the equity method.",
+        "qas": [
+            {
+                "id": "00039",
+                "is_impossible": false,
+                "question": "What entities are included in the accompanying consolidated financial statements?",
+                "answers": [
+                    {
+                        "text": "the accounts of Sprint Corporation and its wholly-owned and majority-owned subsidiaries (Sprint), including Centel Corporation (Centel) and Sprint Communications Company L.P.",
+                        "answer_start": 59
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "context": "The local communications services division consists principally of the operations of Sprint's rate-regulated telephone companies. These operations provide local exchange services, access by telephone customers and other carriers to local exchange facilities and long distance services within specified geographical areas.",
+        "qas": [
+            {
+                "id": "00040",
+                "is_impossible": false,
+                "question": "What operations are included in Sprint's local communications services division?",
+                "answers": [
+                    {
+                        "text": "The local communications services division consists principally of the operations of Sprint's rate-regulated telephone companies.",
+                        "answer_start": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "context": "Effective January 1, 1993, Sprint's long distance communications services division changed its method of accounting for certain costs related to connecting new customers to its network. The change was made to conform Sprint's accounting to the predominant industry practice for such costs. Under the new method, such costs (which were previously capitalized) are being expensed when incurred.",
+        "qas": [
+            {
+                "id": "00041",
+                "is_impossible": false,
+                "question": "What change in accounting method did Sprint's long distance communications services division make effective January 1, 1993?",
+                "answers": [
+                    {
+                        "text": "Effective January 1, 1993, Sprint's long distance communications services division changed its method of accounting for certain costs related to connecting new customers to its network.",
+                        "answer_start": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "context": "The resulting nonrecurring, noncash charge of $32 million ($0.09 per share), net of related income tax benefits, is reflected in the 1993 consolidated statement of income as a cumulative effect of change in accounting principle.",
+        "qas": [
+            {
+                "id": "00042",
+                "is_impossible": false,
+                "question": "What was the impact of the change in accounting method on Sprint's financial statement?",
+                "answers": [
+                    {
+                        "text": "The resulting nonrecurring, noncash charge of $32 million ($0.09 per share), net of related income tax benefits, is reflected in the 1993 consolidated statement of income as a cumulative effect of change in accounting principle.",
+                        "answer_start": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "context": "Effective January 1, 1993, Sprint changed or modified its method of accounting for certain postretirement benefits by adopting Statement of Financial Accounting Standards (SFAS) No. 106, 'Employers' Accounting for Postretirement Benefits Other Than Pensions.' Sprint provides postretirement benefits (principally health care benefits) to certain retirees. SFAS No. 106 requires accrual of the expected cost of providing postretirement benefits to employees and their dependents or beneficiaries during the years employees earn the benefits.",
+        "qas": [
+            {
+                "id": "00043",
+                "is_impossible": false,
+                "question": "What change did Sprint make in its accounting for postretirement benefits effective January 1, 1993?",
+                "answers": [
+                    {
+                        "text": "Effective January 1, 1993, Sprint changed or modified its method of accounting for certain postretirement benefits by adopting Statement of Financial Accounting Standards (SFAS) No. 106, 'Employers' Accounting for Postretirement Benefits Other Than Pensions.'",
+                        "answer_start": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "context": "Certain amounts in the accompanying consolidated financial statements for 1993 have been reclassified to conform to the presentation of amounts in the 1994 consolidated financial statements.  Such reclassifications had no effect on the results of operations.",
+        "qas": [
+            {
+                "id": "00044",
+                "is_impossible": false,
+                "question": "What effect did reclassifications have on the results of operations?",
+                "answers": [
+                    {
+                        "text": "Such reclassifications had no effect on the results of operations.",
+                        "answer_start": 192
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "context": "Earnings from continuing operations before\nEarnings before cumulative effect of\nCumulative effect of accounting changes\nEarnings per common share:\n  Primary - Earnings from continuing operations\n  Fully   - Earnings from continuing operations",
+        "qas": [
+            {
+                "id": "00045",
+                "is_impossible": false,
+                "question": "What are the different components of earnings mentioned in this section?",
+                "answers": [
+                    {
+                        "text": "Earnings from continuing operations, Earnings before cumulative effect of, Cumulative effect of accounting changes, Earnings per common share: Primary - Earnings from continuing operations, Fully - Earnings from continuing operations",
+                        "answer_start": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "context": "The consolidated financial information presented herein is unaudited, other than the consolidated balance sheet at December 31, 1993, which is derived from audited financial statements.",
+        "qas": [
+            {
+                "id": "00046",
+                "is_impossible": false,
+                "question": "What is the audit status of the consolidated balance sheet at December 31, 1993?",
+                "answers": [
+                    {
+                        "text": "audited",
+                        "answer_start": 61
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "context": "In the opinion of management, the interim financial statements reflect all adjustments of a normal recurring nature necessary for a fair statement of the results for interim periods. The current period's results of operations are not necessarily indicative of results that ultimately may be achieved for the year.",
+        "qas": [
+            {
+                "id": "00047",
+                "is_impossible": false,
+                "question": "What is the opinion of management regarding the interim financial statements?",
+                "answers": [
+                    {
+                        "text": "the interim financial statements reflect all adjustments of a normal recurring nature necessary for a fair statement of the results for interim periods.",
+                        "answer_start": 30
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "context": "In December 1993, the company divested Asgrow Florida Company.  Where appropriate, these financial statements have been restated to reflect this divestiture as a discontinued operation.",
+        "qas": [
+            {
+                "id": "00048",
+                "is_impossible": false,
+                "question": "What divestiture did the company undertake in December 1993?",
+                "answers": [
+                    {
+                        "text": "divested Asgrow Florida Company",
+                        "answer_start": 30
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "context": "Inventories valued on the LIFO method had an estimated replacement cost (FIFO basis) of $454,616 at March 31, 1994, and $461,090 at December 31, 1993.",
+        "qas": [
+            {
+                "id": "00049",
+                "is_impossible": false,
+                "question": "What was the estimated replacement cost of inventories valued on the LIFO method at March 31, 1994?",
+                "answers": [
+                    {
+                        "text": "$454,616",
+                        "answer_start": 88
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "context": "The medium-term notes were issued under 1991 and 1993 shelf registrations filed with the Securities and Exchange Commission.  Pursuant to these registrations, the company may from time to time issue notes with varying maturities, interest rates and amounts up to an aggregate total of $400,000 ($300,000 under the 1991 registration and $100,000 under the 1993 registration).  At March 31, 1994, $34,000 remained available for issuance under the 1991 registration and $100,000 under the 1993 registration.",
+        "qas": [
+            {
+                "id": "00050",
+                "is_impossible": false,
+                "question": "What is the aggregate total amount of notes that may be issued under the 1991 and 1993 registrations?",
+                "answers": [
+                    {
+                        "text": "$400,000 ($300,000 under the 1991 registration and $100,000 under the 1993 registration)",
+                        "answer_start": 285
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "context": "Unused bank credit facilities at April 30, 1994 were increased to a total of $150 million, all available to support commercial paper borrowings or other corporate purposes.",
+        "qas": [
+            {
+                "id": "00051",
+                "is_impossible": false,
+                "question": "What was the total amount of unused bank credit facilities at April 30, 1994?",
+                "answers": [
+                    {
+                        "text": "$150 million",
+                        "answer_start": 77
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "context": "The company is also involved in several administrative and judicial proceedings relating to environmental matters, including actions brought by the EPA and state environmental agencies for cleanup at approximately 40 'Superfund' or comparable sites.  The company is not able to determine its ultimate exposure in connection with these environmental situations due to uncertainties related to cleanup procedures to be employed, if any, the cost of cleanup and the company's share of a site's cost.",
+        "qas": [
+            {
+                "id": "00052",
+                "is_impossible": false,
+                "question": "What environmental proceedings is the company involved in?",
+                "answers": [
+                    {
+                        "text": "actions brought by the EPA and state environmental agencies for cleanup at approximately 40 'Superfund' or comparable sites",
+                        "answer_start": 125
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "context": "The company is a party, along with approximately 30 other defendants, in several civil antitrust lawsuits alleging price discrimination and price-fixing with respect to the level of discounts and rebates provided to certain customers.",
+        "qas": [
+            {
+                "id": "00053",
+                "is_impossible": false,
+                "question": "What type of lawsuits is the company involved in along with approximately 30 other defendants?",
+                "answers": [
+                    {
+                        "text": "several civil antitrust lawsuits alleging price discrimination and price-fixing with respect to the level of discounts and rebates provided to certain customers",
+                        "answer_start": 73
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "context": "Activities continue in connection with remediation of the site of the company's discontinued industrial chemical operations in North Haven, Conn.",
+        "qas": [
+            {
+                "id": "00054",
+                "is_impossible": true,
+                "question": "What is the company's preferred course of action regarding the sludge pile?",
+                "answers": []
+            }
+        ]
+    },
+    {
+        "context": "The company is in the process of evaluating other existing environmental conditions at the North Haven, Conn. facility with the intention of addressing concerns that may be determined appropriate.",
+        "qas": [
+            {
+                "id": "00055",
+                "is_impossible": true,
+                "question": "What is the total amount of reserves established by the company?",
+                "answers": []
+            }
+        ]
+    },
+    {
+        "context": "Effective January 1, 1993, the company's majority-owned subsidiaries that previously reported financial results on a fiscal year basis ending November 30 changed their reporting period to a calendar year ending December 31.",
+        "qas": [
+            {
+                "id": "00056",
+                "is_impossible": true,
+                "question": "What was the reason for the change in reporting period by the company's majority-owned subsidiaries?",
+                "answers": []
+            }
+        ]
+    },
+    {
+        "context": "The effective tax rate for the first quarter was 24.7% versus 25.0% for the similar period in 1993 (excluding the tax effects from the patent litigation settlement described above). The decrease is primarily due to a larger proportion of earnings generated in partially exempt tax jurisdictions.",
+        "qas": [
+            {
+                "id": "00057",
+                "is_impossible": false,
+                "question": "What was the effective tax rate for the first quarter in 1993?",
+                "answers": [
+                    {
+                        "text": "25.0%",
+                        "answer_start": 62
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "context": "The effective tax rate for the first quarter was 24.7% versus 25.0% for the similar period in 1993 (excluding the tax effects from the patent litigation settlement described above). The decrease is primarily due to a larger proportion of earnings generated in partially exempt tax jurisdictions.",
+        "qas": [
+            {
+                "id": "00058",
+                "is_impossible": false,
+                "question": "What contributed to the decrease in the effective tax rate for the first quarter?",
+                "answers": [
+                    {
+                        "text": "a larger proportion of earnings generated in partially exempt tax jurisdictions",
+                        "answer_start": 215
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "context": "Income before cumulative effect of accounting changes was $131 million for the first quarter of 1994 versus $57 million in the comparable period of 1993. Earnings per common share from operations increased from 20 cents to 47 cents.",
+        "qas": [
+            {
+                "id": "00059",
+                "is_impossible": false,
+                "question": "What was the income before cumulative effect of accounting changes in the first quarter of 1993?",
+                "answers": [
+                    {
+                        "text": "$57 million",
+                        "answer_start": 108
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "context": "Income before cumulative effect of accounting changes was $131 million for the first quarter of 1994 versus $57 million in the comparable period of 1993. Earnings per common share from operations increased from 20 cents to 47 cents.",
+        "qas": [
+            {
+                "id": "00060",
+                "is_impossible": false,
+                "question": "What was the increase in earnings per common share from operations between the two periods?",
+                "answers": [
+                    {
+                        "text": "from 20 cents to 47 cents",
+                        "answer_start": 206
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "context": "As described above, the settlement of patent litigation reduced earnings per share in 1993 by 23 cents. Earnings per share, excluding the settlement of patent litigation in 1993, increased 9% from the prior year.",
+        "qas": [
+            {
+                "id": "00061",
+                "is_impossible": false,
+                "question": "How much did the settlement of patent litigation reduce earnings per share in 1993?",
+                "answers": [
+                    {
+                        "text": "23 cents",
+                        "answer_start": 94
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "context": "As described above, the settlement of patent litigation reduced earnings per share in 1993 by 23 cents. Earnings per share, excluding the settlement of patent litigation in 1993, increased 9% from the prior year.",
+        "qas": [
+            {
+                "id": "00062",
+                "is_impossible": false,
+                "question": "By what percentage did earnings per share increase from the prior year, excluding the settlement of patent litigation in 1993?",
+                "answers": [
+                    {
+                        "text": "9%",
+                        "answer_start": 189
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "context": "Cash flow provided by continuing operations (which includes working capital components) decreased to $127 million from a level of $165 million for the three months ended March 31, 1994. This decrease primarily reflects net cash outflows for working capital components.",
+        "qas": [
+            {
+                "id": "00063",
+                "is_impossible": false,
+                "question": "What was the decrease in cash flow provided by continuing operations for the three months ended March 31, 1994?",
+                "answers": [
+                    {
+                        "text": "decreased to $127 million from a level of $165 million",
+                        "answer_start": 88
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "context": "The Company's current assets exceeded current liabilities by $1.5 billion at March 31, 1994 and December 31, 1993. Current assets included receivables of $1.5 billion and inventories of $1.8 billion. These sources of liquidity are convertible into cash over a relatively short period of time and thus, will help the Company satisfy normal operating cash requirements.",
+        "qas": [
+            {
+                "id": "00064",
+                "is_impossible": false,
+                "question": "By how much did the Company's current assets exceed current liabilities at March 31, 1994?",
+                "answers": [
+                    {
+                        "text": "$1.5 billion",
+                        "answer_start": 61
+                    }
+                ]
+            }
+        ]
+    }
+]
